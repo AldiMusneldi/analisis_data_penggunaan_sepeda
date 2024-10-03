@@ -16,6 +16,4 @@ streamlit run dashboard/dashboard.py
 
 ## Link Deploy Dashboard Ke Streamlit Cloud.
 
-```
 [Tautan Ke Dashboard Bike Sharing](https://bike-sharin9.streamlit.app/)
-```
