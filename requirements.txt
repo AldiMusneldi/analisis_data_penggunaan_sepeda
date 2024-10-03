@@ -1,5 +1,5 @@
-NumPy == 1.23.5
-Pandas==2.1.1
-Matplotlib==3.8.0
-Seaborn==0.12.2
-Babel==2.12.1
+numpy==2.1.1
+pandas==2.2.3
+matplotlib==3.9.2
+seaborn==0.13.2
+babel==2.16.0
